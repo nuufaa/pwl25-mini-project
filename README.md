@@ -7,6 +7,7 @@ Proyek ini merupakan implementasi REST API CRUD (Create, Read, Update, Delete) u
 Dirancang dengan menerapkan pola Model-View-Controller (MVC) yang dilengkapi dengan middleware utama seperti Logger, Validator, dan Error Handler untuk meningkatkan modularitas dan keamanan sistem.
 ## Struktur Folder Proyek
 Struktur direktori aplikasi mengikuti pola MVC, yang memisahkan antara logika aplikasi, pengaturan database, serta middleware agar lebih terorganisir dan mudah dikembangkan.
+
 <img width="246" height="479" alt="image" src="https://github.com/user-attachments/assets/38833f1f-ceaf-48f1-b0b9-81689ccef299" />
 
 ## Database
